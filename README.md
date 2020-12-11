@@ -2,11 +2,13 @@
 (Matlab code)
 
 Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling
+
 Meng Ding, Xiao Fu, Ting-Zhu Huang, Jun Wang, and Xi-Le Zhao
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Here, we propose a new tensor-based hyperspectral super-resolution method via interpretable block-term tensor modeling.
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 1). Get Started
 
 Run Demo_super_resolution.
